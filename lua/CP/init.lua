@@ -1,7 +1,7 @@
-require("gege.set")
-require("gege.remap")
+require("CP.set")
+require("CP.remap")
 
-require("gege.lazy_init")
+require("CP.lazy_init")
 
 -- DO.not
 -- DO NOT INCLUDE THIS

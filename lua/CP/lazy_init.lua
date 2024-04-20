@@ -12,7 +12,7 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
-    spec = "gege.lazy",
+    spec = "CP.lazy",
     change_detection = { notify = false }
 })
 --[[
